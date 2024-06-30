@@ -4,4 +4,4 @@ vim.opt.swapfile = false
 
 -- Lua
 
-vim.cmd("colorscheme poimandres")
+vim.cmd("colorscheme catppuccin")
